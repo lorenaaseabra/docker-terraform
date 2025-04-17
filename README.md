@@ -95,7 +95,7 @@ terraform destroy
 Or stop all EC2 instances and clean up the environment manually.
 ⚠️ Do not leave any resources running overnight to avoid AWS charges.
 
-##🧪 How to Run Locally
+## 🧪 How to Run Locally
 
 ```bash
 git clone https://github.com/lorenaaseabra/docker-terraform.git
@@ -104,6 +104,6 @@ docker build -t getting-started .
 docker run -dp 3000:3000 getting-started
 ```
 
-##👥 Team
+## n👥 Team
 Lorena Seabra
 Gabriel Dantas
